@@ -1,10 +1,10 @@
 <?php
     //class for connecting the databases
     class connect {
-        private $host = 'localhost';
-        private $username ='yodhaa_admin';
-        private $password ='YBSwb#2015';
-        private $database ='yodhaa_scm';
+        private $host = '';
+        private $username ='';
+        private $password ='';
+        private $database ='';
         
         
         //construtor
