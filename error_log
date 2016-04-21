@@ -1,0 +1,103 @@
+[13-Apr-2016 12:46:26 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/yodhaa/public_html/scm/MaterialGroup.php on line 3
+[13-Apr-2016 12:46:26 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/yodhaa/public_html/scm/MaterialGroup.php on line 3
+[13-Apr-2016 12:46:26 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/yodhaa/public_html/scm/MaterialGroup.php on line 3
+[14-Apr-2016 09:26:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 50
+[14-Apr-2016 09:26:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 50
+[14-Apr-2016 09:26:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:50) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 09:27:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 50
+[14-Apr-2016 09:27:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 50
+[14-Apr-2016 09:27:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:50) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 09:33:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 55
+[14-Apr-2016 09:33:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 55
+[14-Apr-2016 09:33:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:55) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 09:35:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 55
+[14-Apr-2016 09:35:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 55
+[14-Apr-2016 09:35:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:55) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 30
+[14-Apr-2016 09:36:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 55
+[14-Apr-2016 09:36:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 55
+[14-Apr-2016 09:36:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:10) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 31
+[14-Apr-2016 09:43:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 11
+[14-Apr-2016 09:43:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 31
+[14-Apr-2016 09:47:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 12
+[14-Apr-2016 09:47:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:12) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 32
+[14-Apr-2016 09:47:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 12
+[14-Apr-2016 09:47:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:12) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 32
+[14-Apr-2016 09:53:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 13
+[14-Apr-2016 09:53:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 33
+[14-Apr-2016 09:54:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 14
+[14-Apr-2016 09:54:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 34
+[14-Apr-2016 09:59:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 14
+[14-Apr-2016 09:59:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 34
+[14-Apr-2016 10:00:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 14
+[14-Apr-2016 10:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 34
+[14-Apr-2016 10:23:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[14-Apr-2016 10:23:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:51) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 10:27:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[14-Apr-2016 10:27:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:51) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 11:10:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[14-Apr-2016 11:10:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:51) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 11:31:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[14-Apr-2016 11:31:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:51) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 11:32:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[14-Apr-2016 11:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/connect.php:51) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[14-Apr-2016 11:45:21 UTC] PHP Fatal error:  Call to undefined method connect::getResultDatabase() in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 10
+[15-Apr-2016 04:34:08 UTC] PHP Warning:  Illegal string offset 'groupname' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 245
+[15-Apr-2016 04:34:08 UTC] PHP Warning:  Illegal string offset 'description' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 248
+[15-Apr-2016 04:45:16 UTC] PHP Warning:  Illegal string offset 'groupname' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 197
+[15-Apr-2016 04:45:16 UTC] PHP Warning:  Illegal string offset 'description' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 200
+[15-Apr-2016 04:45:16 UTC] PHP Warning:  Illegal string offset 'groupname' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 197
+[15-Apr-2016 04:45:16 UTC] PHP Warning:  Illegal string offset 'description' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 200
+[15-Apr-2016 04:45:45 UTC] PHP Warning:  Illegal string offset 'groupname' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 198
+[15-Apr-2016 04:45:45 UTC] PHP Warning:  Illegal string offset 'description' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 201
+[15-Apr-2016 04:45:45 UTC] PHP Warning:  Illegal string offset 'groupname' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 198
+[15-Apr-2016 04:45:45 UTC] PHP Warning:  Illegal string offset 'description' in /home/yodhaa/public_html/scm/MaterialGroup.php on line 201
+[15-Apr-2016 11:06:34 UTC] PHP Parse error:  syntax error, unexpected 'Select' (T_STRING), expecting ',' or ';' in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 158
+[15-Apr-2016 11:07:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 158
+[15-Apr-2016 11:07:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 169
+[15-Apr-2016 11:17:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 221
+[15-Apr-2016 11:19:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 180
+[15-Apr-2016 11:20:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 180
+[15-Apr-2016 11:21:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 180
+[15-Apr-2016 11:23:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/yodhaa/public_html/scm/MaterialNumberRange.php on line 180
+[18-Apr-2016 05:41:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 27
+[18-Apr-2016 05:42:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 27
+[18-Apr-2016 05:43:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 27
+[18-Apr-2016 05:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:11) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 27
+[18-Apr-2016 05:43:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:9) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 27
+[18-Apr-2016 05:46:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:9) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[18-Apr-2016 05:47:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:9) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[18-Apr-2016 05:48:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/MaterialGroupBack.php:18) in /home/yodhaa/public_html/scm/MaterialGroupBack.php on line 29
+[18-Apr-2016 07:18:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/OriginCountryBack.php:8) in /home/yodhaa/public_html/scm/OriginCountryBack.php on line 23
+[18-Apr-2016 07:24:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/OriginCountryBack.php:17) in /home/yodhaa/public_html/scm/OriginCountryBack.php on line 20
+[18-Apr-2016 11:28:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yodhaa/public_html/scm/UnitOfMeasure.php on line 235
+[18-Apr-2016 12:00:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[18-Apr-2016 12:00:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[19-Apr-2016 07:26:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[19-Apr-2016 07:26:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[19-Apr-2016 07:26:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[19-Apr-2016 07:28:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[19-Apr-2016 07:28:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[19-Apr-2016 07:28:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[19-Apr-2016 09:18:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[19-Apr-2016 09:18:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[19-Apr-2016 09:18:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[19-Apr-2016 09:20:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[19-Apr-2016 09:20:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[19-Apr-2016 09:20:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[19-Apr-2016 09:21:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[19-Apr-2016 09:21:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[19-Apr-2016 09:21:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[19-Apr-2016 11:42:54 UTC] PHP Fatal error:  Call to undefined function patternMatching() in /home/yodhaa/public_html/scm/ViewMaterialMasterData.php on line 50
+[20-Apr-2016 06:37:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 70
+[20-Apr-2016 06:37:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 75
+[20-Apr-2016 06:37:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/scm/connect.php on line 51
+[20-Apr-2016 07:26:11 UTC] PHP Warning:  Illegal string offset 'smid' in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 15
+[20-Apr-2016 07:26:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/StatusMessagesBack.php:15) in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 25
+[20-Apr-2016 07:27:04 UTC] PHP Warning:  Illegal string offset 'smid' in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 15
+[20-Apr-2016 07:27:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/StatusMessagesBack.php:15) in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 23
+[20-Apr-2016 07:27:25 UTC] PHP Warning:  Illegal string offset 'smid' in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 15
+[20-Apr-2016 07:27:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/StatusMessagesBack.php:15) in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 23
+[20-Apr-2016 07:28:04 UTC] PHP Warning:  Illegal string offset 'smid' in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 15
+[20-Apr-2016 07:28:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/StatusMessagesBack.php:15) in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 23
+[20-Apr-2016 07:29:22 UTC] PHP Warning:  Illegal string offset 'smid' in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 15
+[20-Apr-2016 07:29:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/scm/StatusMessagesBack.php:13) in /home/yodhaa/public_html/scm/StatusMessagesBack.php on line 23
